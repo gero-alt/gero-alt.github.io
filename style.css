@@ -1,0 +1,77 @@
+body {
+	background-color: #48968a;
+}
+
+h1	{
+	color: white;
+	font-family: verdana;
+}	
+	
+h2	{
+	color: white;
+	font-family: verdana;
+}
+
+p	{
+	color: white;
+	font-family: verdana;
+}
+
+img {
+	height: 100%;
+	width: 100%;
+	z-index: 5;
+}
+
+input {
+  background-color: #5FB2A5;
+  border: 2px;
+  color: White;
+  padding: 15px 32px;
+  text-align: center;
+  font-family: Tahoma, Geneva, sans-serif;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  font-weight: bold;
+  border-radius: 6px;
+}
+
+input:hover {
+	background-color: #79bfb4;
+	border: 2px;
+	color: White;
+	padding: 15px 32px;
+	text-align: center;
+	font-family: Tahoma, Geneva, sans-serif;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 25px;
+	font-weight: bold;
+	border-radius: 6px;
+}
+
+input:active {
+	background-color: #3f8277;
+	border: 2px;
+	color: White;
+	padding: 15px 32px;
+	text-align: center;
+	font-family: Tahoma, Geneva, sans-serif;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 25px;
+	font-weight: bold;
+	border-radius: 6px;
+}
+
+#click	{
+	text-align:center;
+	font-family:Tahoma, Geneva, sans-serif
+	}
+
+.bot	{
+	position:center;
+	bottom:0;
+	text-align:center
+}
